@@ -1,0 +1,26 @@
+.container-fluid
+{
+    margin-top: 30px;
+    text-align: right;
+    width: 40%;
+    margin-left: 400px;
+}
+.boton
+{
+    text-align: center;
+}
+.texto
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-save
+{
+    cursor: pointer;
+}
+
+.alert
+{
+    text-align: left;
+}

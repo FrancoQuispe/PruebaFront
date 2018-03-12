@@ -4,4 +4,10 @@
 
 .titulo{
     text-align: center;
+    margin-top: 30px;
+}
+.tabla
+{
+    width: 40%;
+    margin-left: 410px;
 }
